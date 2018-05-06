@@ -2,9 +2,9 @@
 
 ## Getting started
 
-Client side startup: `cd client && yarn start`
+Client side startup: `cd client && yarn install && yarn start`
 
-Server side startup: `cd server && yarn start`
+Server side startup: `cd server && yarn install && yarn start`
 
 ## Decisions and Process
 
